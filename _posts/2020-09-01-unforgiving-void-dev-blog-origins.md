@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: unforgiving-void-dev-blog-post
 title: "Origins"
 categories: 
   - "unforgiving-void"
