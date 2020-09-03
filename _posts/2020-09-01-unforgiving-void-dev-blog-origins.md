@@ -1,6 +1,9 @@
 ---
-layout: post
-title: "Unfogiving Void Dev Blog First Post"
+layout: default
+title: "Origins"
+categories: 
+  - "unforgiving-void"
+  - "dev"
 date: 2020-09-01
 ---
 
